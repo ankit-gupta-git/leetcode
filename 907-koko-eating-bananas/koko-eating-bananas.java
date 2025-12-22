@@ -4,11 +4,7 @@ class Solution {
             int actualHrs = 0;
 
             for(int x : piles) {
-                actualHrs += x/mid; //hrs
-
-                if(x%mid != 0) {
-                    actualHrs++;
-                }
+                actualHrs += (x + mid - 1) / mid;
             }
             return actualHrs <= h;
         }
@@ -18,7 +14,7 @@ class Solution {
         int n = piles.length;
 
         int l = 1;
-        int r = 1;
+        int r = 0;
         for (int x : piles) {
             r = Math.max(r, x);
         }
