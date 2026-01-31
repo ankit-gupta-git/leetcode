@@ -23,7 +23,6 @@ class Solution {
         return node.val;
     }
 
-
     public TreeNode inorder(TreeNode root, int k) {
         if(root == null){
             return root;
