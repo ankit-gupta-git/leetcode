@@ -4,7 +4,7 @@ class Solution {
         int res = 1;
         int high = 1;
 
-        while(high < nums.length) {
+        while(high <= nums.length - 1) {
             if(nums[high] == nums[high - 1]) {
                 high++;
                 continue;
