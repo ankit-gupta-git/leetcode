@@ -6,7 +6,7 @@ class Solution {
     // }
     //2 pointers
     public boolean isPalindrome(String s) {
-        int i = 0, j = s.length() - 1;
+        int i = 0, j = s.length() - 1;    //Two pointer
 
         while (i < j) {
             char left = s.charAt(i);
