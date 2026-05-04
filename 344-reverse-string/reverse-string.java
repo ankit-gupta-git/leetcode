@@ -7,8 +7,8 @@ class Solution {
             char temp = s[i];
             s[i] = s[j];
             s[j] = temp;
-            
-            i++;
+
+            i++;  //O(n)
             j--;
         } 
     }
