@@ -14,6 +14,7 @@ class Solution {
             }
             idx--;
         }
+        
         while(j >= 0) {
             nums1[idx] = nums2[j];
             j--;
