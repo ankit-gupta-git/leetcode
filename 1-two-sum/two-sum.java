@@ -13,21 +13,17 @@ class Solution {
         //via HashMap
         HashMap<Integer, Integer> map = new HashMap();
 
-        //fill HM
         for(int i = 0; i < nums.length; i++) {
+            int lookingFor = target - nums[i];
+
+            if(map.containsKey(lookingFor)) {
+                return new int[] {
+                    i, 
+                    map.get(lookingFor)
+                };
+            }
             map.put(nums[i], i);
         }
-
-        //Searching
-        for(int i = 0; i < nums.length; i++) { //2, 7, 11, 15 target = 9
-            int num = nums[i]; //2
-            int rem = target - num; //7
-            if(map.containsKey(rem)) {
-                int index = map.get(rem);
-                if(index == i) continue;
-                return new int[] {i, index};
-            }
-        }
-        return new int[] {}; 
+        return new int[] { }; 
     }
 }
