@@ -14,6 +14,7 @@ class Solution {
                     st = mid + 1;
                 }
             }
+            
             // Right sorted
             else {
                 if (nums[mid] <= target && target <= nums[end]) {
