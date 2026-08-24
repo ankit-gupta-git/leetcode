@@ -12,4 +12,16 @@
 | [1729-find-followers-count](https://github.com/ankit-gupta-git/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ankit-gupta-git/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/ankit-gupta-git/leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
