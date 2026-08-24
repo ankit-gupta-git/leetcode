@@ -10,4 +10,5 @@
 | [1070-product-sales-analysis-iii](https://github.com/ankit-gupta-git/leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1729-find-followers-count](https://github.com/ankit-gupta-git/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ankit-gupta-git/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/ankit-gupta-git/leetcode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 <!---LeetCode Topics End-->
