@@ -13,6 +13,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/ankit-gupta-git/leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/ankit-gupta-git/leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ankit-gupta-git/leetcode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1321-restaurant-growth](https://github.com/ankit-gupta-git/leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/ankit-gupta-git/leetcode/tree/main/1341-movie-rating/) | Medium |
 | [1729-find-followers-count](https://github.com/ankit-gupta-git/leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/ankit-gupta-git/leetcode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
