@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/0180-consecutive-numbers/) | Medium |
+| [0585-investments-in-2016](https://github.com/ankit-gupta-git/leetcode/tree/main/0585-investments-in-2016/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/ankit-gupta-git/leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ankit-gupta-git/leetcode/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0610-triangle-judgement](https://github.com/ankit-gupta-git/leetcode/tree/main/0610-triangle-judgement/) | Easy |
