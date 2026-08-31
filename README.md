@@ -4,6 +4,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/ankit-gupta-git/leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0180-consecutive-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/ankit-gupta-git/leetcode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0585-investments-in-2016](https://github.com/ankit-gupta-git/leetcode/tree/main/0585-investments-in-2016/) | Medium |
