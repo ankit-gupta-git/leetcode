@@ -19,6 +19,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/ankit-gupta-git/leetcode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/ankit-gupta-git/leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/ankit-gupta-git/leetcode/tree/main/1341-movie-rating/) | Medium |
+| [1484-group-sold-products-by-the-date](https://github.com/ankit-gupta-git/leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/ankit-gupta-git/leetcode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/ankit-gupta-git/leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/ankit-gupta-git/leetcode/tree/main/1729-find-followers-count/) | Easy |
