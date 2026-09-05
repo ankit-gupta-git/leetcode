@@ -35,6 +35,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +74,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 <!---LeetCode Topics End-->
