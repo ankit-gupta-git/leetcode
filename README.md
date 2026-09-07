@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-gupta-git/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankit-gupta-git/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -75,4 +77,8 @@
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
