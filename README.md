@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -41,6 +42,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-gupta-git/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -80,5 +83,6 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
