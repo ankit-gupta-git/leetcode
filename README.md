@@ -85,4 +85,8 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3870-count-commas-in-range](https://github.com/ankit-gupta-git/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 <!---LeetCode Topics End-->
