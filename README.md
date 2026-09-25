@@ -57,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0043-multiply-strings](https://github.com/ankit-gupta-git/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-gupta-git/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankit-gupta-git/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -81,6 +82,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/ankit-gupta-git/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankit-gupta-git/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
@@ -97,6 +99,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/ankit-gupta-git/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ankit-gupta-git/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
