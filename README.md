@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -141,4 +142,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankit-gupta-git/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 <!---LeetCode Topics End-->
