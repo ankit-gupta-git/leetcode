@@ -38,6 +38,7 @@
 | [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -122,6 +123,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
