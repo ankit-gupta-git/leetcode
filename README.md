@@ -41,6 +41,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ankit-gupta-git/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankit-gupta-git/leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -129,6 +130,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ankit-gupta-git/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
