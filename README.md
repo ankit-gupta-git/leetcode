@@ -64,6 +64,7 @@
 | [0043-multiply-strings](https://github.com/ankit-gupta-git/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-gupta-git/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ankit-gupta-git/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankit-gupta-git/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
@@ -107,6 +108,7 @@
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ankit-gupta-git/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ankit-gupta-git/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ankit-gupta-git/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
