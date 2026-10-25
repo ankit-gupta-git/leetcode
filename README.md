@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -150,12 +151,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ankit-gupta-git/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 <!---LeetCode Topics End-->
