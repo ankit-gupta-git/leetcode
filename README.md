@@ -32,6 +32,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/ankit-gupta-git/leetcode/tree/main/0051-n-queens/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/ankit-gupta-git/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -166,4 +167,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/ankit-gupta-git/leetcode/tree/main/0051-n-queens/) | Hard |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/ankit-gupta-git/leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
