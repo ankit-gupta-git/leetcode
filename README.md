@@ -44,6 +44,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ankit-gupta-git/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankit-gupta-git/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ankit-gupta-git/leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -135,6 +136,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ankit-gupta-git/leetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankit-gupta-git/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankit-gupta-git/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +166,7 @@
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ankit-gupta-git/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
