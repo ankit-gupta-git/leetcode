@@ -108,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/ankit-gupta-git/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0070-climbing-stairs](https://github.com/ankit-gupta-git/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ankit-gupta-git/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -145,6 +146,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ankit-gupta-git/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankit-gupta-git/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
@@ -179,4 +181,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/ankit-gupta-git/leetcode/tree/main/0051-n-queens/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/ankit-gupta-git/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
