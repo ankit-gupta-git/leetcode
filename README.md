@@ -36,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ankit-gupta-git/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0494-target-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -147,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ankit-gupta-git/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0494-target-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/0494-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ankit-gupta-git/leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
@@ -177,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/ankit-gupta-git/leetcode/tree/main/0051-n-queens/) | Hard |
+| [0494-target-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/0494-target-sum/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +188,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/ankit-gupta-git/leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
