@@ -66,6 +66,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0043-multiply-strings](https://github.com/ankit-gupta-git/leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-gupta-git/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [2409-count-days-spent-together](https://github.com/ankit-gupta-git/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
@@ -196,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/0494-target-sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
