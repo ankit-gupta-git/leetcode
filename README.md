@@ -70,6 +70,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ankit-gupta-git/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/ankit-gupta-git/leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ankit-gupta-git/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2409-count-days-spent-together](https://github.com/ankit-gupta-git/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankit-gupta-git/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
