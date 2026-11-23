@@ -40,6 +40,7 @@
 | [0496-next-greater-element-i](https://github.com/ankit-gupta-git/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/ankit-gupta-git/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/ankit-gupta-git/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ankit-gupta-git/leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ankit-gupta-git/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -100,6 +101,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/ankit-gupta-git/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -116,6 +118,7 @@
 | [0070-climbing-stairs](https://github.com/ankit-gupta-git/leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/ankit-gupta-git/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/ankit-gupta-git/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2409-count-days-spent-together](https://github.com/ankit-gupta-git/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
@@ -206,4 +209,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/ankit-gupta-git/leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
