@@ -97,6 +97,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/ankit-gupta-git/leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ankit-gupta-git/leetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
+| [3360-stone-removal-game](https://github.com/ankit-gupta-git/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/ankit-gupta-git/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -122,6 +123,7 @@
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ankit-gupta-git/leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ankit-gupta-git/leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2409-count-days-spent-together](https://github.com/ankit-gupta-git/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
+| [3360-stone-removal-game](https://github.com/ankit-gupta-git/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3870-count-commas-in-range](https://github.com/ankit-gupta-git/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/ankit-gupta-git/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Recursion
